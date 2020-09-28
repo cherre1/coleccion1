@@ -1,6 +1,7 @@
 /**
 * Clase que muestra por pantalla el nombre completo y la fecha de nacimiento
-@version 1.0
+* @version 1.0
+* @author Carlos Herrero
 */
 
 package colecciones.coleccion1;
